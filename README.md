@@ -10,6 +10,8 @@ Should anything need to be adapted or updated, reasigning these values should be
 Please see the instructions [here](https://github.com/jmcker/CreateSED/blob/master/CreateSED_Instructions_v1.pdf).
 
 *Note: The end of the instructions covers a number of commonly experienced errors.*
+
+An example spreadsheet with the macro embedded and SEDs already produced is available [here](https://github.com/jmcker/CreateSED/blob/master/Example_Spreadsheet-12.13.xlsm)
                   
                  
 ### Version History ###
