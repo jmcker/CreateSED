@@ -22,4 +22,5 @@ Last updated: 10/13/16
 - Updates since 1.5: Updated error output
 - Updates since 1.4: Added trendlines and class distinction.
 
-
+### Contact ###
+Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
