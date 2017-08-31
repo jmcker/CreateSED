@@ -1,5 +1,5 @@
 # CreateSED #
-Visual Basic macro designed to create Spectral Energy Distribution (SED) plots for Young Stellar Objects.
+Visual Basic macro designed to create Spectral Energy Distribution (SED) plots for the NITARP project "An Infrared Search for Young Stellar Objects in IC 1396." Abstract available [here](http://adsabs.harvard.edu/abs/2017AAS...22924111J).
 
 The macro CreateSED() sources a user data sheet, prompts for the selection of star IDs, and creates SEDs for each selected object.
 
