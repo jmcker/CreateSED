@@ -16,9 +16,8 @@ Please see the instructions [here](https://github.com/jmcker/CreateSED/blob/mast
 Current Version: 1.7
 Last updated: 10/13/16
 
-Updates since 1.6: Added dynamic source sheet thanks to a Andrew A. Trendlines updated.
-                   Data column references updated to account for notes columns.
-Updates since 1.5: Updated error output
-Updates since 1.4: Added trendlines and class distinction.
+- Updates since 1.6: Trendlines updated. Data column references updated to account for note columns.
+- Updates since 1.5: Updated error output
+- Updates since 1.4: Added trendlines and class distinction.
 
 
