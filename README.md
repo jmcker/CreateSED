@@ -7,7 +7,9 @@ The set of variables in the header contains most of the relevant values and sett
 Should anything need to be adapted or updated, reasigning these values should be relatively easy.
 
 ### Usage ###
-See manual [here]().
+Please see the instructions [here](https://github.com/jmcker/CreateSED/blob/master/CreateSED_Instructions_v1.pdf).
+
+*Note: The end of the instructions covers a number of commonly experienced errors.*
                   
                  
 ### Version History ###
